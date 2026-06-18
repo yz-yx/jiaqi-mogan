@@ -2758,4 +2758,4 @@
 ("Please log in to use Magic Paste" "请登录后使用魔法粘贴")
 ("Daily Magic Paste limit reached. Upgrade for unlimited access." "今日魔法粘贴次数已达上限，升级会员可无限使用")
 ("Login" "登录")
-("Upgrade" "升级")
+
